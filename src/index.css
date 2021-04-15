@@ -6,3 +6,8 @@ body {
 a {
   color: #00B7FF;
 }
+
+header {
+  max-width: 500px;
+  word-wrap: break-word;
+}
